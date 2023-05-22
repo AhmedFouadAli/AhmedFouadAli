@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fouad Ali</h1>
 <h3 align="center">Mobile Development with Flutter and Firebase: Unleashing the Power of Passion</h3>
 - ⚡ My Quote in Live :
-- Never give up. Keep fighting until the end, whether you win or lose. Be proud of your efforts and everything you've accomplished. 💪🔥👏 by Ahmed Fouad Ali
+- <br>
+Never Ever give up. Keep fighting until the end, whether you win or lose. Be proud of your efforts and everything you've accomplished. 💪🔥👏 by Ahmed Fouad Ali
 <br>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedfouadali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfouadali" /> </p>
